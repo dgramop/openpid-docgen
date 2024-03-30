@@ -1,0 +1,13 @@
+[package]
+name = "openpid-docgen"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+openpid = { git = "ssh://git@github.com/dgramop/openpid" }
+derive_more = "0.99.17"
+mdbook = "0.4.37"
+indoc = "2.0.4"
+toml = "0.8.10"
