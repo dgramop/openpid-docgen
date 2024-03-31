@@ -1035,11 +1035,9 @@ dependencies = [
 [[package]]
 name = "openpid"
 version = "0.1.0"
-source = "git+ssh://git@github.com/dgramop/openpid#b088762447dbe31dabae0812496b554d795532e5"
+source = "git+ssh://git@github.com/dgramop/openpid#4ffe54d8e3b78083b59c773c762ef52c4cd10f85"
 dependencies = [
  "derive_more",
- "indoc",
- "mdbook",
  "rand",
  "serde",
  "thiserror",
@@ -1054,7 +1052,6 @@ dependencies = [
  "indoc",
  "mdbook",
  "openpid",
- "toml 0.8.12",
 ]
 
 [[package]]

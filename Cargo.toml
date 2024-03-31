@@ -10,4 +10,3 @@ openpid = { git = "ssh://git@github.com/dgramop/openpid" }
 derive_more = "0.99.17"
 mdbook = "0.4.37"
 indoc = "2.0.4"
-toml = "0.8.10"
